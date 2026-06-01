@@ -11,7 +11,7 @@ This repository documents my HTML practice journey through daily exercises and m
 
 ## Progress
 
-- [✅] Day 1: HTML fundamentals, lists, images, and videos
+-  Day 1 ✅: HTML fundamentals, lists, images, and videos
 - [ ] Day 2 - Topic
 - [ ] Day 3 - Topic
 
