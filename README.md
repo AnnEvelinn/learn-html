@@ -12,10 +12,9 @@ This repository documents my HTML practice journey through daily exercises and m
 ## Progress
 
  Day 1 ✅: HTML fundamentals, lists, images, and videos  
- Day 2 ✅: HTML Documents and Navigation
-- [ ] Day 3 - Topic
+ Day 2 ✅: HTML Documents and Navigation  
+ Day 3 ✅: HTML Mini Project - Fashion Blog
 
 ## Mini Projects
 
 1.Fashion Blog  
-2.Wine Festival Schedule
